@@ -1,3 +1,4 @@
 # Matthew-Gebhart-ECT-hw-6
 <img src="2022-04-01.png">
-For this priject we are using FETCH API to take some content and put it on our website. 
+For this project we are using Fetch API to take some content and put it on my website. 
+https://meavanvongola.github.io/Matthew-Gebhart-ECT-hw-6/
